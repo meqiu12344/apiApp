@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">apiApp</string>
+    <string-array name="ISO2137">
+        <item>EUR - EURO</item>
+        <item>USD - DOLAR</item>
+
+    </string-array>
+</resources>
